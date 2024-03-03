@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this generating schoonl rsa key
+ssh-keygen -b 4096 -N betty -f school
